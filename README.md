@@ -22,14 +22,14 @@
                                                  
 
 ## 🌱 Currently Working On
-- Full Stack Web Development
-- Mobile App Development with Flutter
+- Cyber Security
+- AI-ML Model Training
 - DevOps and Cloud Technologies
 - IoT Projects with Arduino
 - UI/UX Design with Adobe XD and Illustrator
 
 ## 💻 Technical Skills
-- *Programming Languages*: Python, C, C++, JavaScript, Dart
+- *Programming Languages*: Python, C, C++, Java
 - *Web Technologies*: HTML5, Django
 - *Mobile Development*: Flutter
 - *DevOps*: Docker, Git
@@ -39,7 +39,7 @@
 ## 📫 Get in Touch
 Feel free to connect with me through:
 - Portfolio: [https://port-folio-rouge-ten.vercel.app/](https://port-folio-rouge-ten.vercel.app/)
-- LinkedIn: [Shashank Alagawadi](https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/)
+- LinkedIn: [Shashank Alagawadi](https://www.linkedin.com/in)
 - Email: shashankalagawadi6986@gmail.com
 
 
