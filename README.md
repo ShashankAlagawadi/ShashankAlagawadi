@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshChinmalli)
 
-[🌐 Portfolio](https://port-folio-brown-eight.vercel.app/) |
+[🌐 Portfolio](https://port-folio-rouge-ten.vercel.app) |
 [💼 LinkedIn](https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/) |
 [📧 Email](mailto:harshchinmalliofficial@gmail.com)
 
