@@ -1,4 +1,4 @@
-# Hi 👋, I'm Harsh Chinmalli
+# Hi 👋, I'm Shashank Alagawadi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshChinmalli)
 
@@ -38,9 +38,9 @@
 
 ## 📫 Get in Touch
 Feel free to connect with me through:
-- Portfolio: [https://port-folio-brown-eight.vercel.app/](https://port-folio-brown-eight.vercel.app/)
-- LinkedIn: [Harsh Chinmalli](https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/)
-- Email: harshchinmalliofficial@gmail.com
+- Portfolio: [https://port-folio-rouge-ten.vercel.app/](https://port-folio-rouge-ten.vercel.app/)
+- LinkedIn: [Shashank Alagawadi](https://www.linkedin.com/in/harsh-chinmalli-1242b42b6/)
+- Email: shashankalagawadi6986@gmail.com
 
 
 
